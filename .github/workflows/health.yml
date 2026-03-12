@@ -11,11 +11,10 @@ concurrency:
 
 jobs:  
   health-check:    
-    runs-on: ubuntu-latest 
-    # Ensure GitHub Actions has explicit permission to push to the repo   
+    runs-on: ubuntu-latest    
     permissions:
       contents: write
-      
+
     steps:      
       - name: Checkout        
         uses: actions/checkout@v4        
@@ -31,16 +30,37 @@ jobs:
       - name: Run health.sh        
         run: bash health.sh      
         
-      - name: Sync with remote to prevent push rejection
+      - name: Aggressive Commit and Push Loop
         run: |
-          # Automatically stashes readme.md changes, pulls any new background commits, and pops the changes back
-          git pull origin default --rebase --autostash
+          # 1. Setup Git Bot
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
           
-      - name: Update log        
-        uses: stefanzweifel/git-auto-commit-action@v6        
-        with:          
-          commit_message: "health log"          
-          file_pattern: "readme.md"          
-          commit_author: "GitHub Actions Bot <actions@github.com>"          
-          commit_user_name: "GitHub Actions Bot"          
-          commit_user_email: "actions@github.com"
+          # 2. Stage the file
+          git add readme.md
+          
+          # 3. Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes in readme.md detected. Skipping."
+            exit 0
+          fi
+          
+          git commit -m "health log"
+          
+          # 4. The Loop: Pull and Push until it succeeds (max 5 tries)
+          for i in 1 2 3 4 5; do
+            # Pull any new background changes and place our commit on top
+            git pull origin default --rebase
+            
+            # Attempt to push
+            if git push origin default; then
+              echo "✅ Successfully pushed to default branch!"
+              exit 0
+            fi
+            
+            echo "⚠️ Remote rejected the push. Retrying ($i/5)..."
+            sleep 3
+          done
+          
+          echo "❌ Failed to push after 5 attempts due to extreme repo activity."
+          exit 1
