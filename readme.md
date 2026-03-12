@@ -1,21 +1,7 @@
-## Base Log @ 2026-03-12 17:02 UTC
+## Base Log @ 2026-03-12 21:00 UTC
 
-### ✅ Working Streams: 149<br>❌ Dead Streams: 12
+### ✅ Working Streams: 161<br>❌ Dead Streams: 0
 
-| Channel | Error (Code) | Link |
-| ------- | ------------ | ---- |
-| C-SPAN | HTTP Error (403) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
-| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
-| Investigation Discovery | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8` |
-| Marquee Sports Network | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
-| NBC Sports Boston | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20939.m3u8` |
-| NBC Sports California | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8` |
-| Pop TV | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20976.m3u8` |
-| Space City Home Network | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/213668.m3u8` |
-| SportsNet Pittsburgh | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/108178.m3u8` |
-| TV Land | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/46696.m3u8` |
-| TV One | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20868.m3u8` |
-| The Weather Channel | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8` |
 ---
 #### Base Channels URL
 ```
