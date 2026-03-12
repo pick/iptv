@@ -21,7 +21,15 @@ jobs:
 
       - name: Run health.sh
         run: bash health.sh
-
+      
+      - name: Pull latest changes
+        run: git pull origin default --rebase
+        
+      - name: Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: health log
+          file_pattern: readme.md      
       - name: Update log
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
