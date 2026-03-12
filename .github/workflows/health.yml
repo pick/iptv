@@ -11,12 +11,16 @@ concurrency:
 
 jobs:  
   health-check:    
-    runs-on: ubuntu-latest    
+    runs-on: ubuntu-latest 
+    # Ensure GitHub Actions has explicit permission to push to the repo   
+    permissions:
+      contents: write
+      
     steps:      
       - name: Checkout        
         uses: actions/checkout@v4        
         with:
-          ref: default # Explicitly check out the branch, not a detached HEAD
+          ref: default
           fetch-depth: 0      
           
       - name: Install FFmpeg        
@@ -27,25 +31,16 @@ jobs:
       - name: Run health.sh        
         run: bash health.sh      
         
-      - name: Commit, Rebase, and Push
+      - name: Sync with remote to prevent push rejection
         run: |
-          # 1. Set up the bot identity
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
+          # Automatically stashes readme.md changes, pulls any new background commits, and pops the changes back
+          git pull origin default --rebase --autostash
           
-          # 2. Stage the file
-          git add readme.md
-          
-          # 3. Only attempt to commit and push if there are actual changes
-          if ! git diff --cached --quiet; then
-            # Commit the changes locally FIRST
-            git commit -m "health log"
-            
-            # Pull the absolute latest changes from remote and stack our commit on top
-            git pull origin default --rebase
-            
-            # Push the perfectly synced history back to GitHub
-            git push origin default
-          else
-            echo "No changes detected in readme.md. Skipping commit."
-          fi
+      - name: Update log        
+        uses: stefanzweifel/git-auto-commit-action@v6        
+        with:          
+          commit_message: "health log"          
+          file_pattern: "readme.md"          
+          commit_author: "GitHub Actions Bot <actions@github.com>"          
+          commit_user_name: "GitHub Actions Bot"          
+          commit_user_email: "actions@github.com"
