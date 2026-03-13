@@ -1,12 +1,14 @@
-## Base Log @ 2026-03-13 07:04 UTC
+## Base Log @ 2026-03-13 09:05 UTC
 
-### ✅ Working Streams: 158<br>❌ Dead Streams: 3
+### ✅ Working Streams: 156<br>❌ Dead Streams: 5
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| HBO Comedy | HTTP Error (403) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
+| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
+| Hallmark Mystery | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/10289.m3u8` |
 | History Channel | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8` |
-| Sportsnet East | HTTP Error (404) | `https://stream.decentdoubts.net/801/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
-| Sportsnet One | HTTP Error (404) | `https://stream.decentdoubts.net/808/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
+| NBC Sports California | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8` |
 ---
 #### Base Channels URL
 ```
