@@ -1,7 +1,10 @@
-## Base Log @ 2026-03-12 21:00 UTC
+## Base Log @ 2026-03-13 04:23 UTC
 
-### ✅ Working Streams: 161<br>❌ Dead Streams: 0
+### ✅ Working Streams: 160<br>❌ Dead Streams: 1
 
+| Channel | Error (Code) | Link |
+| ------- | ------------ | ---- |
+| History Channel | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8` |
 ---
 #### Base Channels URL
 ```
