@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-14 04:21 UTC
+## Base Log @ 2026-03-14 08:59 UTC
 
-### ✅ Working Streams: 140<br>❌ Dead Streams: 21
+### ✅ Working Streams: 141<br>❌ Dead Streams: 20
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,22 +8,21 @@
 | Altitude Sports | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | C-SPAN | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
-| Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
-| FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
+| Cozi TV | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
+| FX Movie Channel | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
 | FYI TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
-| Fox Business | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
+| Fox Business | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
 | Fox News | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
 | Fox | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2544` |
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
-| Game Show Network | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
-| HBO Comedy | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
-| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
-| NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
+| Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
+| HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
+| NBC Sports Bay Area | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
-| Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
-| Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| Spectrum SportsNet LA Dodgers | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
+| Spectrum SportsNet Lakers | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
 | USA East | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
 ---
 #### Base Channels URL
