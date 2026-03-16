@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-16 15:38 UTC
+## Base Log @ 2026-03-16 21:04 UTC
 
-### ✅ Working Streams: 141<br>❌ Dead Streams: 20
+### ✅ Working Streams: 140<br>❌ Dead Streams: 21
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,6 +17,7 @@
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
+| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
