@@ -1,10 +1,9 @@
-## Base Log @ 2026-03-17 15:38 UTC
+## Base Log @ 2026-03-17 21:04 UTC
 
-### ✅ Working Streams: 138<br>❌ Dead Streams: 23
+### ✅ Working Streams: 140<br>❌ Dead Streams: 21
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
@@ -18,8 +17,7 @@
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
-| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
-| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
+| Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
