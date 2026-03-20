@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-20 09:05 UTC
+## Base Log @ 2026-03-20 15:11 UTC
 
-### ✅ Working Streams: 136<br>❌ Dead Streams: 25
+### ✅ Working Streams: 131<br>❌ Dead Streams: 30
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -20,14 +20,19 @@
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
-| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
+| Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
-| NBC Sports California | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
+| Nicktoons | HTTP Error (000) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
+| QVC | HTTP Error (000) | `http://212.102.60.231/QVC/index.m3u8` |
+| Reelz Channel | HTTP Error (000) | `http://212.102.60.231/REELZ/index.m3u8` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
 | Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| SportsNet New York | HTTP Error (000) | `http://212.102.60.231/SNY/index.m3u8` |
+| Sportsman Channel | HTTP Error (000) | `http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8` |
+| Starz Encore Classic | HTTP Error (000) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
 | USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
 ---
 #### Base Channels URL
