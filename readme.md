@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-26 04:43 UTC
+## Base Log @ 2026-03-26 09:33 UTC
 
-### ✅ Working Streams: 135<br>❌ Dead Streams: 26
+### ✅ Working Streams: 136<br>❌ Dead Streams: 25
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -12,7 +12,6 @@
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | ESPN | HTTP Error (404) | `http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | ESPN2 | HTTP Error (404) | `http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
-| FDSN Ohio | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/17752.m3u8` |
 | FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
 | FYI TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
 | Fox Business | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
@@ -21,7 +20,7 @@
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
-| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
+| Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
