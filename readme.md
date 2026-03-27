@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-27 05:01 UTC
+## Base Log @ 2026-03-27 09:13 UTC
 
-### ✅ Working Streams: 137<br>❌ Dead Streams: 24
+### ✅ Working Streams: 134<br>❌ Dead Streams: 27
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -19,9 +19,12 @@
 | Fox | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2544` |
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
+| Grit TV | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
+| ION TV | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
+| NBC Sports California | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
