@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-29 04:59 UTC
+## Base Log @ 2026-03-29 09:04 UTC
 
-### ✅ Working Streams: 137<br>❌ Dead Streams: 24
+### ✅ Working Streams: 134<br>❌ Dead Streams: 27
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -25,8 +25,11 @@
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
+| Pop TV | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20976.m3u8` |
+| Showtime Extreme | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
 | Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| SportsNet New York | HTTP Error (404) | `http://212.102.60.231/SNY/index.m3u8` |
 | USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
 ---
 #### Base Channels URL
