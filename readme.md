@@ -1,6 +1,6 @@
-## Base Log @ 2026-03-31 05:15 UTC
+## Base Log @ 2026-03-31 09:39 UTC
 
-### ✅ Working Streams: 137<br>❌ Dead Streams: 24
+### ✅ Working Streams: 135<br>❌ Dead Streams: 26
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -19,14 +19,16 @@
 | Fox | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2544` |
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
+| Golf Channel | HTTP Error (403) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
+| Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
-| Premier Sports 1 | HTTP Error (403) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
 | Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| SportsNet New York | HTTP Error (404) | `http://212.102.60.231/SNY/index.m3u8` |
 | USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
 ---
 #### Base Channels URL
