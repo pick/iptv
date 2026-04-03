@@ -1,4 +1,4 @@
-## Base Log @ 2026-04-03 15:08 UTC
+## Base Log @ 2026-04-03 21:02 UTC
 
 ### ✅ Working Streams: 134<br>❌ Dead Streams: 27
 
@@ -13,7 +13,6 @@
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | ESPN | HTTP Error (404) | `http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | ESPN2 | HTTP Error (404) | `http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
-| FDSN West | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8` |
 | FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
 | FYI TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
 | Fox Business | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
@@ -21,8 +20,9 @@
 | Fox | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2544` |
 | Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
+| Golf Channel | HTTP Error (403) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
-| Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
+| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
