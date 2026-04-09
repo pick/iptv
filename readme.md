@@ -1,14 +1,16 @@
-## Base Log @ 2026-04-09 04:45 UTC
+## Base Log @ 2026-04-09 09:47 UTC
 
-### ✅ Working Streams: 128<br>❌ Dead Streams: 33
+### ✅ Working Streams: 125<br>❌ Dead Streams: 36
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
+| Antenna TV | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Network | HTTP Error (404) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
+| CNBC | HTTP Error (404) | `http://41.205.93.154/CNBC/index.m3u8` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | ESPN News | HTTP Error (403) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts` |
 | ESPN | HTTP Error (404) | `http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
@@ -24,6 +26,7 @@
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | Golf Channel | HTTP Error (403) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
+| Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NFL RedZone | HTTP Error (403) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts` |
