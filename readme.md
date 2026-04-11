@@ -1,4 +1,4 @@
-## Base Log @ 2026-04-10 21:03 UTC
+## Base Log @ 2026-04-11 04:33 UTC
 
 ### ✅ Working Streams: 120<br>❌ Dead Streams: 41
 
@@ -24,7 +24,7 @@
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | Golf Channel | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
-| Hallmark Family | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
+| Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NFL Network | HTTP Error (403) | `https://stream.decentdoubts.net/6128524/index.m3u8?token=Mm9QYnQ1ZkpyYWllaEoydWhheUVsOGl1cGNpQW1xcUczNGVZeHRuWHlYL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
