@@ -1,12 +1,11 @@
-## Base Log @ 2026-04-13 10:12 UTC
+## Base Log @ 2026-04-13 15:55 UTC
 
-### ✅ Working Streams: 118<br>❌ Dead Streams: 43
+### ✅ Working Streams: 121<br>❌ Dead Streams: 40
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
-| Antenna TV | HTTP Error (403) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Network | HTTP Error (404) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
@@ -34,7 +33,6 @@
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
 | Premier Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts` |
 | Premier Sports 2 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts` |
-| Reelz Channel | HTTP Error (404) | `http://212.102.60.231/REELZ/index.m3u8` |
 | Sky Family | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/274.ts` |
 | Sky Sports News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
@@ -42,7 +40,6 @@
 | Sportsnet 360 | HTTP Error (404) | `https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
 | Sportsnet East | HTTP Error (404) | `https://stream.decentdoubts.net/801/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
 | Sportsnet One | HTTP Error (404) | `https://stream.decentdoubts.net/808/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
-| Starz Encore Classic | HTTP Error (404) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
 | TSN1 | HTTP Error (404) | `https://stream.decentdoubts.net/805/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1` |
 | TSN2 | HTTP Error (404) | `https://stream.decentdoubts.net/806/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1` |
 | USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
