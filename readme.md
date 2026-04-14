@@ -1,6 +1,6 @@
-## Base Log @ 2026-04-13 21:14 UTC
+## Base Log @ 2026-04-14 05:42 UTC
 
-### ✅ Working Streams: 120<br>❌ Dead Streams: 41
+### ✅ Working Streams: 121<br>❌ Dead Streams: 40
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -35,7 +35,6 @@
 | Premier Sports 2 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts` |
 | Sky Family | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/274.ts` |
 | Sky Sports News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts` |
-| Sony Movie Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/2214.m3u8` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
 | Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
 | Sportsnet 360 | HTTP Error (404) | `https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
