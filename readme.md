@@ -1,10 +1,9 @@
-## Base Log @ 2026-04-19 21:04 UTC
+## Base Log @ 2026-04-20 05:26 UTC
 
-### ✅ Working Streams: 78<br>❌ Dead Streams: 83
+### ✅ Working Streams: 79<br>❌ Dead Streams: 82
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
@@ -32,7 +31,7 @@
 | FDSN Sun | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8` |
 | FDSN West | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8` |
 | FDSN Wisconsin | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8` |
-| FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
+| FX Movie Channel | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
 | FYI TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
 | Fox Business | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
 | Fox News | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
