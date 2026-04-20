@@ -1,20 +1,16 @@
-## Base Log @ 2026-04-20 15:53 UTC
+## Base Log @ 2026-04-20 21:09 UTC
 
-### ✅ Working Streams: 70<br>❌ Dead Streams: 91
+### ✅ Working Streams: 74<br>❌ Dead Streams: 87
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
-| ACC Network | HTTP Error (000) | `http://23.239.31.26:8989/accnetwork/index.m3u8` |
-| AMC | HTTP Error (000) | `http://23.239.31.26:8989/amc/index.m3u8` |
-| AXS TV | HTTP Error (000) | `http://23.239.31.26:8989/axstv/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
-| Animal Planet | HTTP Error (000) | `http://23.239.31.26:8989/animalplanet/index.m3u8` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
-| CBS | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
+| CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
@@ -80,7 +76,7 @@
 | Sony Movie Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/2214.m3u8` |
 | Space City Home Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/213668.m3u8` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
-| Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| Spectrum SportsNet Lakers | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
 | SportsNet Pittsburgh | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/108178.m3u8` |
 | Sportsnet 360 | HTTP Error (404) | `https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
 | Sportsnet East | HTTP Error (404) | `https://stream.decentdoubts.net/801/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
