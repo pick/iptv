@@ -1,4 +1,4 @@
-## Base Log @ 2026-04-21 15:52 UTC
+## Base Log @ 2026-04-21 21:11 UTC
 
 ### ✅ Working Streams: 73<br>❌ Dead Streams: 88
 
@@ -89,7 +89,7 @@
 | TV One | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20868.m3u8` |
 | Tennis Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20184.m3u8` |
 | The Weather Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8` |
-| USA East | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
+| USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
 | Willow Cricket | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/215.ts` |
 | getTV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18366.m3u8` |
 ---
