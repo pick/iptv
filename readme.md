@@ -1,10 +1,9 @@
-## Base Log @ 2026-04-22 05:13 UTC
+## Base Log @ 2026-04-22 10:00 UTC
 
 ### ✅ Working Streams: 73<br>❌ Dead Streams: 88
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
@@ -13,6 +12,7 @@
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
+| Cleo TV | HTTP Error (403) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
