@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-01 15:32 UTC
+## Base Log @ 2026-05-01 21:13 UTC
 
-### ✅ Working Streams: 70<br>❌ Dead Streams: 91
+### ✅ Working Streams: 68<br>❌ Dead Streams: 93
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -81,10 +81,12 @@
 | Space City Home Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/213668.m3u8` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
 | Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| SportsNet New York | HTTP Error (403) | `http://212.102.60.231/SNY/index.m3u8` |
 | SportsNet Pittsburgh | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/108178.m3u8` |
 | Sportsnet 360 | HTTP Error (404) | `https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
 | Sportsnet East | HTTP Error (404) | `https://stream.decentdoubts.net/801/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
 | Sportsnet One | HTTP Error (404) | `https://stream.decentdoubts.net/808/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
+| Starz Encore Classic | HTTP Error (403) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
 | TLC | HTTP Error (000) | `http://89.105.221.127/tlc/mpegts?token=test` |
 | TSN1 | HTTP Error (404) | `https://stream.decentdoubts.net/805/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1` |
 | TSN2 | HTTP Error (404) | `https://stream.decentdoubts.net/806/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1` |
