@@ -1,9 +1,10 @@
-## Base Log @ 2026-05-10 09:53 UTC
+## Base Log @ 2026-05-10 15:31 UTC
 
-### ✅ Working Streams: 61<br>❌ Dead Streams: 100
+### ✅ Working Streams: 64<br>❌ Dead Streams: 97
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
@@ -14,9 +15,6 @@
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
-| Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
-| Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
-| Cooking Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
@@ -72,7 +70,6 @@
 | NewsNation | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
-| Ovation | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129935.ts` |
 | Oxygen | HTTP Error (000) | `http://89.105.221.127/Oxygen/index.m3u8?token=test` |
 | Pop TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20976.m3u8` |
 | Premier Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts` |
