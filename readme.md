@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-14 06:02 UTC
+## Base Log @ 2026-05-14 10:42 UTC
 
-### ✅ Working Streams: 65<br>❌ Dead Streams: 96
+### ✅ Working Streams: 60<br>❌ Dead Streams: 101
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,15 +9,19 @@
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
+| Big Ten Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
+| Boomerang | HTTP Error (000) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
+| Cartoon Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
 | Discovery Science | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8` |
+| Disney XD | HTTP Error (000) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
 | Disney | HTTP Error (000) | `http://89.105.221.127/Disney/index.m3u8?token=test` |
 | ESPN News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts` |
 | ESPN | HTTP Error (000) | `http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
@@ -55,6 +59,7 @@
 | Investigation Discovery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
+| MTV | HTTP Error (000) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
 | MotorTrend TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
