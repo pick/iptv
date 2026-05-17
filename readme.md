@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-17 06:01 UTC
+## Base Log @ 2026-05-17 10:08 UTC
 
-### ✅ Working Streams: 65<br>❌ Dead Streams: 96
+### ✅ Working Streams: 62<br>❌ Dead Streams: 99
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -10,10 +10,12 @@
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
+| Bravo TV | HTTP Error (404) | `http://41.205.93.154/BRAVO/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
+| Cooking Channel | HTTP Error (000) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
@@ -54,6 +56,7 @@
 | ION TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8` |
 | Investigation Discovery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
+| MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
 | MotorTrend TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8` |
