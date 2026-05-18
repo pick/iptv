@@ -1,10 +1,13 @@
-## Base Log @ 2026-05-18 17:18 UTC
+## Base Log @ 2026-05-18 21:46 UTC
 
-### ✅ Working Streams: 64<br>❌ Dead Streams: 97
+### ✅ Working Streams: 62<br>❌ Dead Streams: 99
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
+| ACC Network | HTTP Error (404) | `http://23.239.31.26:8989/accnetwork/index.m3u8` |
+| AXS TV | HTTP Error (404) | `http://23.239.31.26:8989/axstv/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
@@ -54,7 +57,6 @@
 | ION TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8` |
 | Investigation Discovery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
-| MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
 | MotorTrend TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8` |
