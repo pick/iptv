@@ -1,10 +1,9 @@
-## Base Log @ 2026-05-22 11:24 UTC
+## Base Log @ 2026-05-22 16:41 UTC
 
 ### ✅ Working Streams: 64<br>❌ Dead Streams: 97
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
@@ -64,6 +63,7 @@
 | NBC Sports California | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8` |
 | NBC Sports Philadelphia | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
+| NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
 | NFL Network | HTTP Error (404) | `https://stream.decentdoubts.net/6128524/index.m3u8?token=Mm9QYnQ1ZkpyYWllaEoydWhheUVsOGl1cGNpQW1xcUczNGVZeHRuWHlYL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | NFL RedZone | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
