@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-31 10:29 UTC
+## Base Log @ 2026-05-31 15:47 UTC
 
-### ✅ Working Streams: 60<br>❌ Dead Streams: 101
+### ✅ Working Streams: 61<br>❌ Dead Streams: 100
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -22,7 +22,6 @@
 | Discovery Science | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8` |
 | Disney | HTTP Error (000) | `http://89.105.221.127/Disney/index.m3u8?token=test` |
 | ESPN News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts` |
-| ESPN U | HTTP Error (404) | `http://23.237.104.106:8080/USA_ESPNU/index.m3u8` |
 | ESPN | HTTP Error (000) | `http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | ESPN2 | HTTP Error (000) | `http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | FDSN Detroit | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8` |
