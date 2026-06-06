@@ -1,4 +1,4 @@
-## Base Log @ 2026-06-05 21:55 UTC
+## Base Log @ 2026-06-06 06:07 UTC
 
 ### ✅ Working Streams: 59<br>❌ Dead Streams: 102
 
@@ -49,6 +49,7 @@
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | Golf Channel | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | Grit TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8` |
+| HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | HBO Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8` |
 | Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
@@ -68,7 +69,6 @@
 | NBC Sports Philadelphia | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
-| NFL Network | HTTP Error (404) | `https://stream.decentdoubts.net/6128524/index.m3u8?token=Mm9QYnQ1ZkpyYWllaEoydWhheUVsOGl1cGNpQW1xcUczNGVZeHRuWHlYL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | NFL RedZone | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
 | NewsNation | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8` |
