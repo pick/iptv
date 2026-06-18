@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-18 12:27 UTC
+## Base Log @ 2026-06-18 17:41 UTC
 
-### ✅ Working Streams: 56<br>❌ Dead Streams: 105
+### ✅ Working Streams: 58<br>❌ Dead Streams: 103
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,10 +11,8 @@
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
 | BBC America | HTTP Error (403) | `https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8` |
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
-| Big Ten Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
-| Bravo TV | HTTP Error (000) | `http://41.205.93.154/BRAVO/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
@@ -90,8 +88,8 @@
 | Smithsonian Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8` |
 | Sony Movie Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/2214.m3u8` |
 | Space City Home Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/213668.m3u8` |
-| Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
-| Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| Spectrum SportsNet LA Dodgers | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
+| Spectrum SportsNet Lakers | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
 | SportsNet New York | HTTP Error (403) | `http://212.102.60.231/SNY/index.m3u8` |
 | SportsNet Pittsburgh | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/108178.m3u8` |
 | Sportsman Channel | HTTP Error (403) | `http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8` |
@@ -106,7 +104,7 @@
 | TV One | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20868.m3u8` |
 | Tennis Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20184.m3u8` |
 | The Weather Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8` |
-| USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
+| USA East | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
 | Willow Cricket | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/215.ts` |
 | getTV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18366.m3u8` |
 ---
