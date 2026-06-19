@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-19 07:37 UTC
+## Base Log @ 2026-06-19 12:30 UTC
 
-### ✅ Working Streams: 58<br>❌ Dead Streams: 103
+### ✅ Working Streams: 57<br>❌ Dead Streams: 104
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,12 +17,13 @@
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
-| Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
-| Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
+| Cleo TV | HTTP Error (000) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
+| Comedy TV | HTTP Error (000) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
 | Discovery Science | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8` |
+| Disney XD | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
 | Disney | HTTP Error (000) | `http://89.105.221.127/Disney/index.m3u8?token=test` |
 | ESPN News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts` |
 | ESPN | HTTP Error (000) | `http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
@@ -75,7 +76,7 @@
 | NewsNation | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
-| Ovation | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129935.ts` |
+| Ovation | HTTP Error (000) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129935.ts` |
 | Oxygen | HTTP Error (000) | `http://89.105.221.127/Oxygen/index.m3u8?token=test` |
 | Pop TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20976.m3u8` |
 | Premier Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts` |
