@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-22 08:37 UTC
+## Base Log @ 2026-06-22 18:32 UTC
 
-### ✅ Working Streams: 57<br>❌ Dead Streams: 104
+### ✅ Working Streams: 58<br>❌ Dead Streams: 103
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -77,7 +77,6 @@
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
 | Ovation | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129935.ts` |
 | Oxygen | HTTP Error (000) | `http://89.105.221.127/Oxygen/index.m3u8?token=test` |
-| Paramount Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Pop TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20976.m3u8` |
 | Premier Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts` |
 | Premier Sports 2 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts` |
