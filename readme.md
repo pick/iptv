@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-25 06:32 UTC
+## Base Log @ 2026-06-25 11:13 UTC
 
-### ✅ Working Streams: 57<br>❌ Dead Streams: 104
+### ✅ Working Streams: 56<br>❌ Dead Streams: 105
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -18,6 +18,7 @@
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CNBC | HTTP Error (404) | `http://41.205.93.154/CNBC/index.m3u8` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
+| Cartoon Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
