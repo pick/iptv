@@ -1,16 +1,12 @@
-## Base Log @ 2026-07-07 16:44 UTC
+## Base Log @ 2026-07-07 21:52 UTC
 
-### ✅ Working Streams: 51<br>❌ Dead Streams: 110
+### ✅ Working Streams: 55<br>❌ Dead Streams: 106
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
 | ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
-| ACC Network | HTTP Error (404) | `http://23.239.31.26:8989/accnetwork/index.m3u8` |
-| AMC | HTTP Error (404) | `http://23.239.31.26:8989/amc/index.m3u8` |
-| AXS TV | HTTP Error (404) | `http://23.239.31.26:8989/axstv/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
-| Animal Planet | HTTP Error (404) | `http://23.239.31.26:8989/animalplanet/index.m3u8` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
 | BBC America | HTTP Error (403) | `https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8` |
