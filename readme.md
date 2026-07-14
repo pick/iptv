@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-14 05:14 UTC
+## Base Log @ 2026-07-14 10:16 UTC
 
-### ✅ Working Streams: 20<br>❌ Dead Streams: 141
+### ✅ Working Streams: 21<br>❌ Dead Streams: 140
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -20,7 +20,6 @@
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CMT | HTTP Error (000) | `http://23.237.104.106:8080/USA_CMT/index.m3u8` |
-| CNBC | HTTP Error (404) | `http://41.205.93.154/CNBC/index.m3u8` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cartoon Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Cinemax | HTTP Error (000) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
