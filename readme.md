@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-15 21:30 UTC
+## Base Log @ 2026-07-16 05:24 UTC
 
-### ✅ Working Streams: 21<br>❌ Dead Streams: 140
+### ✅ Working Streams: 54<br>❌ Dead Streams: 107
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,33 +11,21 @@
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
 | BBC America | HTTP Error (403) | `https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8` |
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
-| Big Ten Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
-| Boomerang | HTTP Error (000) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
-| CMT | HTTP Error (000) | `http://23.237.104.106:8080/USA_CMT/index.m3u8` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
-| Cartoon Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
-| Cinemax | HTTP Error (000) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
-| Comedy Central | HTTP Error (000) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
-| Cooking Channel | HTTP Error (000) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
-| Crime & Investigation Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts` |
-| Discovery Channel | HTTP Error (000) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
 | Discovery Science | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8` |
-| Disney XD | HTTP Error (000) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
 | Disney | HTTP Error (000) | `http://89.105.221.127/Disney/index.m3u8?token=test` |
-| E! Entertainment | HTTP Error (000) | `http://23.237.104.106:8080/USA_E/index.m3u8` |
 | ESPN News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts` |
-| ESPN U | HTTP Error (000) | `http://23.237.104.106:8080/USA_ESPNU/index.m3u8` |
 | ESPN | HTTP Error (000) | `http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | ESPN2 | HTTP Error (000) | `http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | FDSN Detroit | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20930.m3u8` |
@@ -52,12 +40,8 @@
 | FDSN Sun | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8` |
 | FDSN West | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8` |
 | FDSN Wisconsin | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8` |
-| FUSE | HTTP Error (000) | `http://23.237.104.106:8080/USA_FUSE/index.m3u8` |
 | FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
-| FX | HTTP Error (000) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
-| FXX | HTTP Error (000) | `http://23.237.104.106:8080/USA_FXX/index.m3u8` |
 | FYI TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
-| Food Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8` |
 | Fox Business | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
 | Fox News | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
 | Fox Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts` |
@@ -67,24 +51,18 @@
 | Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | Golf Channel | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | Grit TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8` |
-| HBO 2 | HTTP Error (000) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | HBO Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8` |
-| HBO Zone | HTTP Error (000) | `http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8` |
-| HBO | HTTP Error (000) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
-| HLN TV | HTTP Error (000) | `http://23.237.104.106:8080/USA_HLN/index.m3u8` |
-| Hallmark Channel | HTTP Error (000) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
+| HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | Hallmark Mystery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10289.m3u8` |
 | History Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8` |
 | INSP | HTTP Error (000) | `http://89.105.221.127/INSP/index.m3u8?token=test` |
 | ION TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8` |
 | Investigation Discovery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8` |
-| Lifetime Movie Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
-| MSG | HTTP Error (000) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
-| MTV | HTTP Error (000) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
 | MotorTrend TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
@@ -93,27 +71,22 @@
 | NBC Sports California | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8` |
 | NBC Sports Philadelphia | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
-| NESN | HTTP Error (000) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
+| NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
 | NFL Network | HTTP Error (404) | `https://stream.decentdoubts.net/6128524/index.m3u8?token=Mm9QYnQ1ZkpyYWllaEoydWhheUVsOGl1cGNpQW1xcUczNGVZeHRuWHlYL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | NFL RedZone | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
-| National Geographic | HTTP Error (000) | `http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8` |
 | NewsNation | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
-| Nickelodeon | HTTP Error (000) | `http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8` |
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
-| Outdoor Channel | HTTP Error (000) | `http://23.237.104.106:8080/USA_OUTDOOR/mpegts` |
 | Ovation | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129935.ts` |
 | Oxygen | HTTP Error (000) | `http://89.105.221.127/Oxygen/index.m3u8?token=test` |
-| Paramount Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Pop TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20976.m3u8` |
 | Premier Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts` |
 | Premier Sports 2 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts` |
 | QVC | HTTP Error (403) | `http://212.102.60.231/QVC/index.m3u8` |
 | Reelz Channel | HTTP Error (403) | `http://212.102.60.231/REELZ/index.m3u8` |
-| SEC Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
 | Showtime Extreme | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8` |
-| Showtime | HTTP Error (000) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
+| Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 | Sky Family | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/274.ts` |
 | Sky Sports News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts` |
 | Smithsonian Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8` |
@@ -128,8 +101,6 @@
 | Sportsnet East | HTTP Error (404) | `https://stream.decentdoubts.net/801/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
 | Sportsnet One | HTTP Error (404) | `https://stream.decentdoubts.net/808/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==` |
 | Starz Encore Classic | HTTP Error (403) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
-| Starz | HTTP Error (000) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
-| Syfy | HTTP Error (000) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
 | TLC | HTTP Error (000) | `http://89.105.221.127/tlc/mpegts?token=test` |
 | TSN1 | HTTP Error (404) | `https://stream.decentdoubts.net/805/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1` |
 | TSN2 | HTTP Error (404) | `https://stream.decentdoubts.net/806/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1` |
@@ -138,11 +109,7 @@
 | Tennis Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20184.m3u8` |
 | The Weather Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8` |
 | USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
-| VH1 | HTTP Error (000) | `http://23.237.104.106:8080/USA_VH1/index.m3u8` |
-| Vice TV | HTTP Error (000) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
-| We Tv | HTTP Error (000) | `http://23.237.104.106:8080/USA_WE_TV/index.m3u8` |
 | Willow Cricket | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/215.ts` |
-| YES Network | HTTP Error (000) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
 | getTV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18366.m3u8` |
 ---
 #### Base Channels URL
