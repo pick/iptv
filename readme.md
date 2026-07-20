@@ -1,4 +1,4 @@
-## Base Log @ 2026-07-20 11:21 UTC
+## Base Log @ 2026-07-20 16:09 UTC
 
 ### ✅ Working Streams: 53<br>❌ Dead Streams: 108
 
@@ -93,8 +93,8 @@
 | Smithsonian Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8` |
 | Sony Movie Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/2214.m3u8` |
 | Space City Home Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/213668.m3u8` |
-| Spectrum SportsNet LA Dodgers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
-| Spectrum SportsNet Lakers | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
+| Spectrum SportsNet LA Dodgers | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74683` |
+| Spectrum SportsNet Lakers | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/512561` |
 | SportsNet New York | HTTP Error (403) | `http://212.102.60.231/SNY/index.m3u8` |
 | SportsNet Pittsburgh | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/108178.m3u8` |
 | Sportsman Channel | HTTP Error (403) | `http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8` |
