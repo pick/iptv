@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-24 10:34 UTC
+## Base Log @ 2026-07-24 15:54 UTC
 
-### ✅ Working Streams: 52<br>❌ Dead Streams: 109
+### ✅ Working Streams: 53<br>❌ Dead Streams: 108
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -76,7 +76,6 @@
 | NFL Network | HTTP Error (404) | `https://stream.decentdoubts.net/6128524/index.m3u8?token=Mm9QYnQ1ZkpyYWllaEoydWhheUVsOGl1cGNpQW1xcUczNGVZeHRuWHlYL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | NFL RedZone | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts` |
 | NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
-| National Geographic | HTTP Error (404) | `http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8` |
 | NewsNation | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
