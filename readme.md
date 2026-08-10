@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-10 15:31 UTC
+## Base Log @ 2026-08-10 21:11 UTC
 
-### ✅ Working Streams: 52<br>❌ Dead Streams: 109
+### ✅ Working Streams: 53<br>❌ Dead Streams: 108
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,11 +13,10 @@
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
-| Bravo TV | HTTP Error (404) | `http://41.205.93.154/BRAVO/index.m3u8` |
-| C-SPAN | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
+| C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
-| CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
+| CBS | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CNBC | HTTP Error (404) | `http://41.205.93.154/CNBC/index.m3u8` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
@@ -42,10 +41,10 @@
 | FDSN Sun | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8` |
 | FDSN West | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8` |
 | FDSN Wisconsin | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8` |
-| FX Movie Channel | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
+| FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
 | FYI TV | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
-| Fox Business | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
-| Fox News | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
+| Fox Business | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
+| Fox News | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
 | Fox Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts` |
 | Fox Sports 2 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/55.ts` |
 | Fox | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2544` |
@@ -54,7 +53,7 @@
 | Golf Channel | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | Grit TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
-| HBO Comedy | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
+| HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | HBO Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
@@ -76,7 +75,7 @@
 | NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
 | NFL Network | HTTP Error (404) | `https://stream.decentdoubts.net/6128524/index.m3u8?token=Mm9QYnQ1ZkpyYWllaEoydWhheUVsOGl1cGNpQW1xcUczNGVZeHRuWHlYL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | NFL RedZone | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23550.ts` |
-| NHL Network | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
+| NHL Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3672` |
 | NewsNation | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8` |
 | Nick Jr | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/74691` |
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
@@ -110,7 +109,7 @@
 | TV One | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20868.m3u8` |
 | Tennis Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20184.m3u8` |
 | The Weather Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8` |
-| USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
+| USA East | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
 | Willow Cricket | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/215.ts` |
 | getTV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18366.m3u8` |
 ---
