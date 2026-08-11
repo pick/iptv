@@ -1,11 +1,11 @@
-## Base Log @ 2026-08-11 09:30 UTC
+## Base Log @ 2026-08-11 15:29 UTC
 
 ### ✅ Working Streams: 53<br>❌ Dead Streams: 108
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | HTTP Error (404) | `http://41.205.93.154/AandE/index.m3u8` |
-| ABC | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
+| ABC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/112234` |
 | Altitude Sports | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/332892` |
 | Antenna TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20180.m3u8` |
 | Aspire | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/21927.m3u8` |
@@ -21,7 +21,7 @@
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
-| Cozi TV | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
+| Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
 | Discovery Science | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8` |
@@ -41,19 +41,19 @@
 | FDSN Sun | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/104917.m3u8` |
 | FDSN West | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20932.m3u8` |
 | FDSN Wisconsin | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8` |
-| FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
-| FYI TV | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
+| FX Movie Channel | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
+| FYI TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
 | Fox Business | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
-| Fox News | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
+| Fox News | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
 | Fox Sports 1 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3420.ts` |
 | Fox Sports 2 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/55.ts` |
-| Fox | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2544` |
-| Freeform TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
-| Game Show Network | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
+| Fox | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2544` |
+| Freeform TV | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2502` |
+| Game Show Network | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648975` |
 | Golf Channel | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/3294.ts` |
 | Grit TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
-| HBO Comedy | HTTP Error (000) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
+| HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | HBO Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
