@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-12 04:21 UTC
+## Base Log @ 2026-08-12 09:39 UTC
 
-### ✅ Working Streams: 53<br>❌ Dead Streams: 108
+### ✅ Working Streams: 52<br>❌ Dead Streams: 109
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -21,6 +21,7 @@
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
+| Cooking Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
