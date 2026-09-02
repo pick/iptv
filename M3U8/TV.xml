@@ -4,30 +4,6 @@
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" />
     <lcn>225</lcn>
   </channel>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260902060000 +0000" stop="20260902070000 +0000">
-    <title>The 2 Robbies</title>
-    <desc>Robbie Mustoe and Robbie Earle deliver expert analysis on top Premier League storylines.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a4aa85337d4605090b2ec5b29349551e/images/gracenote/assets/p33730485_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S2026E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260902070000 +0000" stop="20260902080000 +0000">
-    <title>Premier League Highlights Factory</title>
-    <desc>Watch soccer's biggest stars, iconic clubs and thrilling goals come to life in Premier League Highlights Factory.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/402a5a2516f85bfcdae74376298ed306/images/gracenote/assets/p33785139_b_h10_ac.jpg" />
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260902080000 +0000" stop="20260902100000 +0000">
-    <title>PFT Live</title>
-    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
-    <episode-num system="onscreen">S14E162</episode-num>
-    <rating system="USA Parental Rating">TVG</rating>
-  </programme>
-  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260902100000 +0000" stop="20260902110000 +0000">
-    <title>Fanta in 60</title>
-    <desc>John Fanta brings his nonstop energy to the worlds of sports, pop culture, fantasy and betting.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d36a9b2ae5c8ba48052dd732e5423897/images/gracenote/assets/p33808297_b_h10_ab.jpg" />
-  </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260902110000 +0000" stop="20260902130000 +0000">
     <title>PFT Live</title>
     <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
@@ -122,6 +98,13 @@
     <desc>An unfiltered look at the NFL, with player access and stories from a life in and around football.</desc>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/82a87e1327c753a189e12632b49258eb/rokuFeed/assets/ee42a662e62e5109b55dac18918af9cb.jpg" />
     <episode-num system="onscreen">S07E61</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260903110000 +0000" stop="20260903130000 +0000">
+    <title>PFT Live</title>
+    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S14E164</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260903110000 +0000" stop="20260903130000 +0000">
@@ -240,6 +223,14 @@
     <episode-num system="onscreen">S14E165</episode-num>
     <rating system="USA Parental Rating">TVG</rating>
   </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260904110000 +0000" stop="20260904130000 +0000">
+    <title>PFT Live</title>
+    <sub-title>PFT Live</sub-title>
+    <desc>Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3b234878e4b25f6c9f31aff39875417d/images/gracenote/assets/p22919764_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S14E165</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
+  </programme>
   <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260904130000 +0000" stop="20260904160000 +0000">
     <title>The Dan Patrick Show</title>
     <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
@@ -307,5 +298,46 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/rokuFeed/assets/5f6a0d9b8f3951938ab61dbed60ce797.jpg" />
     <episode-num system="onscreen">S2026E23</episode-num>
     <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260905060000 +0000" stop="20260905070000 +0000">
+    <title>National Heads-Up Poker Championship</title>
+    <sub-title>National Heads-Up Poker Championship</sub-title>
+    <desc>Round of 32 action from the Clubs and Spades brackets featuring poker's biggest names.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/rokuFeed/assets/5f6a0d9b8f3951938ab61dbed60ce797.jpg" />
+    <episode-num system="onscreen">S2026E24</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260905070000 +0000" stop="20260905080000 +0000">
+    <title>National Heads-Up Poker Championship</title>
+    <sub-title>National Heads-Up Poker Championship</sub-title>
+    <desc>Round of 64 action from the Hearts and Diamonds brackets featuring Alan Keating and Kristen Foxen.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/rokuFeed/assets/5f6a0d9b8f3951938ab61dbed60ce797.jpg" />
+    <episode-num system="onscreen">S2026E25</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260905080000 +0000" stop="20260905090000 +0000">
+    <title>National Heads-Up Poker Championship</title>
+    <sub-title>National Heads-Up Poker Championship</sub-title>
+    <desc>Round of 32 action from the Hearts and Diamonds brackets featuring poker's biggest names.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/747c33ca70ba51328fdeff200766309a/rokuFeed/assets/5f6a0d9b8f3951938ab61dbed60ce797.jpg" />
+    <episode-num system="onscreen">S2026E26</episode-num>
+    <rating system="USA Parental Rating">TV14</rating>
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260905090000 +0000" stop="20260905100000 +0000">
+    <title>Rushing the Field</title>
+    <desc>With college football insider Nicole Auerback and former Ohio State player Joshua Perry.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ef177d28174db42224dd7ffaf017c5f4/images/gracenote/assets/p30059871_b_h10_ab.jpg" />
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260905100000 +0000" stop="20260905110000 +0000">
+    <title>Fanta in 60</title>
+    <desc>John Fanta brings his nonstop energy to the worlds of sports, pop culture, fantasy and betting.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d36a9b2ae5c8ba48052dd732e5423897/images/gracenote/assets/p33808297_b_h10_ab.jpg" />
+  </programme>
+  <programme channel="a90a91570ce0536cbb22b591ad7e0da2" start="20260905110000 +0000" stop="20260905140000 +0000">
+    <title>The Dan Patrick Show</title>
+    <desc>Interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/268b76d3582253118619b5a96aeb4974/rokuFeed/assets/e9f7b03573d35c0da9c41715cadd3045.jpg" />
+    <episode-num system="onscreen">S07E153</episode-num>
+    <rating system="USA Parental Rating">TVG</rating>
   </programme>
   </tv>
