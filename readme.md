@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-08 07:21 UTC
+## Base Log @ 2026-09-08 12:59 UTC
 
-### ✅ Working Streams: 52<br>❌ Dead Streams: 109
+### ✅ Working Streams: 53<br>❌ Dead Streams: 108
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -61,7 +61,6 @@
 | INSP | HTTP Error (000) | `http://89.105.221.127/INSP/index.m3u8?token=test` |
 | ION TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8` |
 | Investigation Discovery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8` |
-| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
