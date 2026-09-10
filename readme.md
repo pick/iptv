@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-09 22:41 UTC
+## Base Log @ 2026-09-10 07:26 UTC
 
-### ✅ Working Streams: 50<br>❌ Dead Streams: 111
+### ✅ Working Streams: 45<br>❌ Dead Streams: 116
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,10 +17,13 @@
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
+| CNBC | HTTP Error (404) | `http://41.205.93.154/CNBC/index.m3u8` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
+| Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
 | Cozi TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2604` |
+| Discovery Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
 | Discovery Science | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8` |
@@ -43,6 +46,7 @@
 | FDSN Wisconsin | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/78599.m3u8` |
 | FX Movie Channel | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3736` |
 | FX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
+| FXX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FXX/index.m3u8` |
 | FYI TV | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/97459` |
 | Fox Business | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/21561` |
 | Fox News | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2543` |
@@ -57,6 +61,7 @@
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | HBO Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
+| Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
 | Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | Hallmark Mystery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10289.m3u8` |
 | History Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8` |
