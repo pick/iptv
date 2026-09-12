@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-12 12:17 UTC
+## Base Log @ 2026-09-12 17:21 UTC
 
-### ✅ Working Streams: 44<br>❌ Dead Streams: 117
+### ✅ Working Streams: 41<br>❌ Dead Streams: 120
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,6 +17,7 @@
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
+| CNBC | HTTP Error (404) | `http://41.205.93.154/CNBC/index.m3u8` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
@@ -60,6 +61,7 @@
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | HBO Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
+| HLN TV | HTTP Error (404) | `http://23.237.104.106:8080/USA_HLN/index.m3u8` |
 | Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
 | Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
 | Hallmark Mystery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10289.m3u8` |
@@ -119,6 +121,7 @@
 | Tennis Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20184.m3u8` |
 | The Weather Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18926.m3u8` |
 | USA East | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/3767` |
+| VH1 | HTTP Error (404) | `http://23.237.104.106:8080/USA_VH1/index.m3u8` |
 | Willow Cricket | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/215.ts` |
 | getTV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/18366.m3u8` |
 ---
