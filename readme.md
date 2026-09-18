@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-18 07:33 UTC
+## Base Log @ 2026-09-18 13:04 UTC
 
-### ✅ Working Streams: 41<br>❌ Dead Streams: 120
+### ✅ Working Streams: 44<br>❌ Dead Streams: 117
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,7 +13,6 @@
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
-| Buzzr | HTTP Error (403) | `https://buzzrota-web.amagi.tv/playlist.m3u8` |
 | C-SPAN | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/92792` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (000) | `http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==` |
@@ -69,7 +68,6 @@
 | ION TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8` |
 | Investigation Discovery | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/46810.m3u8` |
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
-| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
@@ -78,7 +76,6 @@
 | NBC Sports Bay Area | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2436` |
 | NBC Sports Boston | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20939.m3u8` |
 | NBC Sports California | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20940.m3u8` |
-| NBC Sports NOW | HTTP Error (403) | `https://jmp2.uk/stvp-USBD420002446` |
 | NBC Sports Philadelphia | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20943.m3u8` |
 | NBC | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/89714` |
 | NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
