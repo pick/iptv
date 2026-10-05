@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-05 09:23 UTC
+## Base Log @ 2026-10-05 21:34 UTC
 
-### ✅ Working Streams: 43<br>❌ Dead Streams: 118
+### ✅ Working Streams: 41<br>❌ Dead Streams: 120
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -19,6 +19,7 @@
 | CBS | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/2631` |
 | CW | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/120889.m3u8` |
 | Cartoon Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
+| Cinemax | HTTP Error (404) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts` |
@@ -27,6 +28,7 @@
 | Discovery Family Channel | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8` |
 | Discovery Life | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8` |
 | Discovery Science | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8` |
+| Disney XD | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
 | Disney | HTTP Error (000) | `http://89.105.221.127/Disney/index.m3u8?token=test` |
 | ESPN News | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1003.ts` |
 | ESPN U | HTTP Error (404) | `http://23.237.104.106:8080/USA_ESPNU/index.m3u8` |
@@ -60,6 +62,7 @@
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (401) | `https://restream-live.realiptv.to/Lucas123/Lucas123/648977` |
 | HBO Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8` |
+| HBO Zone | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
 | Hallmark Family | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9307.m3u8` |
@@ -71,7 +74,6 @@
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
-| MTV | HTTP Error (404) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
 | MotorTrend TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
