@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-08 09:18 UTC
+## Base Log @ 2026-10-08 20:03 UTC
 
-### ✅ Working Streams: 39<br>❌ Dead Streams: 122
+### ✅ Working Streams: 41<br>❌ Dead Streams: 120
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -74,7 +74,6 @@
 | Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
 | MLB Network | HTTP Error (000) | `http://89.105.221.127/MLBNetwork/mpegts?token=test` |
 | MSNBC | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8` |
-| MTV | HTTP Error (000) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13379.m3u8` |
 | MotorTrend TV | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/10399.m3u8` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
@@ -98,7 +97,6 @@
 | Premier Sports 2 | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts` |
 | QVC | HTTP Error (403) | `http://212.102.60.231/QVC/index.m3u8` |
 | Reelz Channel | HTTP Error (404) | `http://212.102.60.231/REELZ/index.m3u8` |
-| SEC Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
 | Showtime Extreme | HTTP Error (000) | `http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 | Sky Family | HTTP Error (000) | `https://starshare.st/live/P4B9TB9xR8/humongous2tonight/274.ts` |
